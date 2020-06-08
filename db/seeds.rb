@@ -1,0 +1,8 @@
+Song.create(title: "Born to Be Wild", released: true, release_year: 1978, artist_name: "Steppenwolf", genre: "Rock")
+Song.create(title: "Hey Jude", released: true, release_year: 1978, artist_name: "Steppenwolf", genre: "Rock")
+Song.create(title: "I Wanna Be Sedated", released: true, release_year: 1981, artist_name: "The Ramones", genre: "Rock")
+Song.create(title: "Good Vibrations", released: true, release_year: 1988, artist_name: "The Beach Boys", genre: "Pop")
+Song.create(title: "Thriller", released: true, release_year: 1988, artist_name: "Michael Jackson", genre: "Pop")
+Song.create(title: "Changes", released: true, release_year: 1998, artist_name: "Tupac", genre: "Rap")
+Song.create(title: "K", released: true, release_year: 1984, artist_name: "CK", genre: "Misc")
+# Song.create(title: "", released: true, release_year: , artist_name: "", genre: "")
